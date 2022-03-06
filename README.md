@@ -1,4 +1,4 @@
-# Principal-Component-Analysis-in-Fixed-Income
+# Principal-Component-Analysis-in-Fixed-Income (PCA)
 The objective is to apply the multivariate principal components analysis technique to yield curves of different credit quality, calculating eigenvalues, eigenvectors and principal components.
 
 The objective of this code is to carry out Principal Component Analysis (PCA) on two yield curves: one from a AAA rating issuer and the other from a BBB rating corporate.
